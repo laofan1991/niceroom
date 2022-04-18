@@ -1,6 +1,12 @@
 # niceroom
 
-A new Flutter project.
+一个flutter上手项目，版本：flutter2.10.3。
+
+感谢开源~~~
+
+学习想学的，便是自由
+
+- [学习文档](https://zhuanlan.zhihu.com/p/484130633)
 
 ## Getting Started
 
